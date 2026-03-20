@@ -28,7 +28,7 @@ Método descarga: descarga desde internet archive.
 </p>
 
 <p align="center">
-  <big>📥 <b><a href="https://archive.org">Descargar Maruga Script</a></b></big>
+  <big>📥 <b><a href="https://archive.org/download/maruga-script-install/maruga%20script%20install.zip">Descargar Maruga Script</a></b></big>
 </p>
 
 
