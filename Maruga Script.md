@@ -5,8 +5,9 @@ Maruga Script es un programa que se usa para programación y sirve para aprender
 versión en español de Pascal, un lenguaje en español (Interprete) al cual se le incorporó un IDE o entorno de
 desarrollo (Aplicación Win32) que permite codi car, ejecutar y comprobar (DEBUG) los algoritmos escritos en
 dicho lenguaje.<br><br>
+
 Este entorno tiene como propósito ayudar la enseñanza de la programación en cursos introductorios o de
-algoritmia. La idea es codi car los algoritmos (similar a un seudo código) y permitir la corrida o ver de forma
+algoritmia. La idea es codificar los algoritmos (similar a un seudo código) y permitir la corrida o ver de forma
 sencilla la lógica de ejecución del algoritmo (a través de las herramientas de depuración). En él se puede tratar los
 conceptos de estructuras secuenciales, condicionales y repetitivas, variables y constantes, trabajo con arreglos
 estáticos y dinámicos, entre otras técnicas. El instalador y el IDE brindan una ayuda, un manual usuario y la
@@ -24,7 +25,7 @@ Método descarga: descarga desde internet archive.
 
 **Enlace**<br>
 <p align="center">
-<img width="80" height="80" alt="Captura de pantalla 2026-03-20 114153" src="https://github.com/user-attachments/assets/596a3b17-4587-466e-92a4-2d0c18b7b18f" />
+  <img width="80" height="80" alt="Captura de pantalla 2026-03-20 114153" src="https://github.com/user-attachments/assets/596a3b17-4587-466e-92a4-2d0c18b7b18f" />
 </p>
 
 <p align="center">
