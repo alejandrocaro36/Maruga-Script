@@ -24,7 +24,7 @@ Método descarga: descarga desde internet archive.
 
 **Enlace**<br>
 <p align="center">
-<img width="50" height="50" alt="Captura de pantalla 2026-03-20 114153" src="https://github.com/user-attachments/assets/596a3b17-4587-466e-92a4-2d0c18b7b18f" />
+<img width="60" height="60" alt="Captura de pantalla 2026-03-20 114153" src="https://github.com/user-attachments/assets/596a3b17-4587-466e-92a4-2d0c18b7b18f" />
 </p>
 [Texto que quieres que se vea](https://archive.org/download/maruga-script-install/maruga%20script%20install.zip)
 
